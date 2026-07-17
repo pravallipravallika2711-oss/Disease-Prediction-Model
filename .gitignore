@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pkl
+*.json
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.ogg
+.venv/
+.env
+.DS_Store
+.ipynb_checkpoints/
