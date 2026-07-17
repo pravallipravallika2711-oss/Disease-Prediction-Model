@@ -8,6 +8,8 @@ This project builds a simple speech emotion recognition pipeline that extracts a
 - `src/model_utils.py` – trains and saves the classifier.
 - `train.py` – trains the model from a folder of labeled audio files.
 - `predict.py` – predicts an emotion for a single audio file.
+- `live_demo.py` – records microphone input and prints emotion confidence scores.
+- `app.py` – opens a Streamlit interface for live prediction.
 
 ## Dataset layout
 
