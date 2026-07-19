@@ -370,9 +370,9 @@ Machine Learning Enthusiast
 
 Python Developer
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/pravallipravallika-oss
 
-LinkedIn: https://www.linkedin.com/in/your-profile/
+LinkedIn: https://www.linkedin.com/in/pravallika B/
 
 ---
 
